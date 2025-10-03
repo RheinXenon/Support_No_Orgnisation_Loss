@@ -28,7 +28,7 @@ sub_units = {
 
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #20
+		max_organisation = 40 #20
 		default_morale = 0.3
 		manpower = 300
 		training_time = 120
@@ -120,7 +120,7 @@ sub_units = {
 		
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #20
+		max_organisation = 40 #20
 		default_morale = 0.3
 		manpower = 300
 		training_time = 120
@@ -207,7 +207,7 @@ sub_units = {
 
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #20
+		max_organisation = 40 #20
 		default_morale = 0.3
 		manpower = 300
 		training_time = 120

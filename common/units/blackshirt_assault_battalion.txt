@@ -26,7 +26,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 40 #Inf is 25
-		max_organisation = 150 #10 #Inf is 60
+		max_organisation = 60 #10 #Inf is 60
 		default_morale = 0.2 #Inf is 30
 		manpower = 1000
 		training_time = 120 #Same as other support battalions

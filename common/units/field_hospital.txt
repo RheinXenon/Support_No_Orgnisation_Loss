@@ -25,7 +25,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 300 #20
+		max_organisation = 50 #20
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120
@@ -87,7 +87,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2 #Same as reg hospital
-		max_organisation = 300 #20
+		max_organisation = 50 #20
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120

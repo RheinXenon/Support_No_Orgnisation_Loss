@@ -30,7 +30,7 @@ sub_units = {
 		}
 
 		manpower = 500
-		max_organisation = 150 #10
+		max_organisation = 40 #10
 		default_morale = 0.3
 		max_strength = 2
 		training_time = 180

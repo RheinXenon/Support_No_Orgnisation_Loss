@@ -26,7 +26,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #20
+		max_organisation = 50 #20
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120
@@ -120,7 +120,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength 		= 2
-		max_organisation 	= 150 #20
+		max_organisation 	= 50 #20
 		default_morale 		= 0.3
 		manpower 			= 500
 		training_time 		= 120
@@ -210,7 +210,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #20
+		max_organisation = 50 #20
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120
@@ -297,7 +297,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #20
+		max_organisation = 50 #20
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120
@@ -378,7 +378,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 200 #20
+		max_organisation = 50 #20
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120
@@ -461,7 +461,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #30
+		max_organisation = 50 #30
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120
@@ -535,7 +535,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength = 2
-		max_organisation = 150 #45
+		max_organisation = 50 #45
 		default_morale = 0.3
 		manpower = 500
 		training_time = 120
@@ -609,7 +609,7 @@ sub_units = {
 			
 		#Size Definitions
 		max_strength = 10 #Inf is 25
-		max_organisation = 200 #60 #Inf is 60
+		max_organisation = 50 #60 #Inf is 60
 		default_morale = 0.3 #Inf is 0.3
 		manpower = 500
 		training_time = 120
@@ -710,7 +710,7 @@ sub_units = {
 	
 		#Size Definitions
 		max_strength 		= 2
-		max_organisation 	= 150 #20
+		max_organisation 	= 50 #20
 		default_morale 		= 0.3
 		manpower 			= 500
 		training_time 		= 120
