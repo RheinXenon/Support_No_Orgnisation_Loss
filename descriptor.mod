@@ -1,0 +1,9 @@
+version="1.14.7"
+tags={
+	"Gameplay"
+	"Historical"
+	"Translation"
+}
+name="【MZX-MOD】支援连不减少组织度"
+supported_version="1.16.9"
+remote_file_id="2816329765"
